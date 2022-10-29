@@ -40,7 +40,7 @@
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.todo-list-section__task-row {
   display: flex;
 }
 
